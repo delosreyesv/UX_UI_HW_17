@@ -175,6 +175,8 @@
   font-size: 18px;
   color: #ffffff;
   text-align: center;
+  clear:both;
+  margin-top: 10px;
 }
 
 .icon2 {
@@ -185,7 +187,7 @@
 }
 .tealBox {
   width: 100%;
-  height: 200px;
+  height: 220px;
   left: 0px;
   top: 1270px;
   background: #2f9395;
